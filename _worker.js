@@ -18,7 +18,7 @@ vless://7c055cc2-4f97-4298-8a21-6a5c951cbc97@45.78.20.118:45434?type=tcp&securit
 vless://e52c2850-212b-47ff-f43a-5ae7599e919d@45.78.20.118:10854?type=tcp&security=reality&sni=acrobat.adobe.com&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&fp=safari#Reality_Adobe
 `
 
-let urls = "https://sub.bluecoffee.lol/sub1";
+let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
 let subProtocol = 'https';
