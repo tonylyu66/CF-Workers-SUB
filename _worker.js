@@ -14,8 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://7c055cc2-4f97-4298-8a21-6a5c951cbc97@45.78.20.118:45434?type=tcp&security=reality&sni=www.cargotec.com&pbk=rYH4wPTVzSwtpXgI3U7YxppIP6oudD-425vT7pyhj1w&flow=xtls-rprx-vision&fp=chrome#Vless_Reality_1
-vless://e52c2850-212b-47ff-f43a-5ae7599e919d@45.78.20.118:10854?type=tcp&security=reality&sni=acrobat.adobe.com&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&flow=xtls-rprx-vision&fp=safari#Reality_Adobe
+vless://f6726076-3546-41bb-a3ce-88b31d71bd2a@185.212.57.220:18061?type=tcp&security=reality&sni=aicubetech.com&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&flow=xtls-rprx-vision&fp=chrome#Vless+R
 `
 
 let urls = [];
