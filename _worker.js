@@ -15,6 +15,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 let MainData = `
 vless://f6726076-3546-41bb-a3ce-88b31d71bd2a@185.212.57.220:18061?type=tcp&security=reality&sni=aicubetech.com&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&flow=xtls-rprx-vision&fp=chrome#Vless+R
+https://app.mitce.com/?sid=165915&token=srvdppus
 `
 
 let urls = [];
