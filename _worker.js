@@ -14,7 +14,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://f6726076-3546-41bb-a3ce-88b31d71bd2a@185.212.57.220:18061?type=tcp&security=reality&sni=addons.mozilla.org&pbk=R2gKMF0Tetlnesc1pPkZH9NaOeehw-f5_U9JKG_cLjU&flow=xtls-rprx-vision&fp=chrome#自建_Vless+Reality_vision
+vless://89a03517-e8a7-4eb1-9880-7efcad57864f@3x.isa4818.top:54060?type=tcp&security=reality&pbk=NtsMxJ_PQjyiwpLwcOdZhbWlLShBW-0FQFF032VLaRA&fp=random&sni=yahoo.com&sid=c7220b4c15eab766&spx=%2F&flow=xtls-rprx-vision#New_3X-UI_Test*1-1
 https://app.mitce.com/?sid=165915&token=srvdppus
 `
 
