@@ -15,7 +15,7 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 let MainData = `
 vless://89a03517-e8a7-4eb1-9880-7efcad57864f@3x.isa4818.top:54060?type=tcp&security=reality&pbk=NtsMxJ_PQjyiwpLwcOdZhbWlLShBW-0FQFF032VLaRA&fp=random&sni=yahoo.com&sid=c7220b4c15eab766&spx=%2F&flow=xtls-rprx-vision#New_3X-UI_Test*1-1
-https://app.mitce.com/?sid=165915&token=srvdppus
+https://conta.sub-mitce.com/?sid=165915&token=srvdppus
 `
 
 let urls = [];
